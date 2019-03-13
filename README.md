@@ -1,4 +1,3 @@
 # lostchange
-Interval Estimates of Coin Use in the Archaeological Record
 
-Scripts and data for paper "Interval Estimation of Monetization in the Roman Rural Economy through Loss-Rate Uniform Distributions over Time" currently under review.
+This repository contains the script and data discussed in the paper "Quantifying Artifacts over Time: Interval Estimation of a Poisson Distribution using the Jeffreys Prior", forthcoming in <i>Archaeometry</i>.
